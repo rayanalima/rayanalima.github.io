@@ -1,0 +1,108 @@
+{
+    "usuarios": [
+      {       
+        "id": 1,
+        "nome": "Caio Valverde",
+        "email": "caio@hotmail.com",
+        "senha": 123456,
+        "saldo": 255
+      },
+      {
+        "id": 2,
+        "nome": "Amanda Carvalho",
+        "email": "amanda@gmail.com",
+        "senha": 123456,
+        "saldo": 255
+      },
+      {
+        "id": 3,
+        "nome": "Thiago Silva",
+        "email": "thiago@icloud.com",
+        "senha": 123456,
+        "saldo": 255
+      }
+    ],
+    "acoesusuario": [
+        {
+            "id": 1,
+            "empresa": "XP",
+            "quantidade": 25,
+            "valor": "500,00",
+            "usuario_id": 1
+        },
+        {
+            "id": 2,
+            "empresa": "Apple",
+            "quantidade": 98,
+            "valor": "500,00",
+            "usuario_id": 1
+        },
+        {
+            "id": 3,
+            "empresa": "Microsoft",
+            "quantidade": 40,
+            "valor": "500,00",
+            "usuario_id": 1
+        },
+        {
+            "id": 4,
+            "empresa": "Eficient",
+            "quantidade": 10,
+            "valor": "500,00",
+            "usuario_id": 1
+        },
+        {
+            "id": 5,
+            "empresa": "Ubisoft",
+            "quantidade": 76,
+            "valor": "500,00",
+            "usuario_id": 2
+        },
+        {
+            "id": 6,
+            "empresa": "Riot",
+            "quantidade": 84,
+            "valor": "500,00",
+            "usuario_id": 2
+        },
+        {
+            "id": 7,
+            "empresa": "Orkut",
+            "quantidade": 74,
+            "valor": "500,00",
+            "usuario_id": 2
+        }
+    ],
+    "acoesdisponiveis": [
+        {
+            "id": 1,
+            "empresa": "Orkut",
+            "valor": "500,00",
+            "quantidade": 400
+        },
+        {
+            "id": 2,
+            "empresa": "Eficient",
+            "valor": "500,00",
+            "quantidade": 100
+        },
+        {
+            "id": 3,
+            "empresa": "Ubisoft",
+            "valor": "500,00",
+            "quantidade": 45
+        },
+        {
+            "id": 4,
+            "empresa": "Riot",
+            "valor": "500,00",
+            "quantidade": 400
+        },
+        {
+            "id": 5,
+            "empresa": "Microsoft",
+            "valor": "500,00",
+            "quantidade": 7
+        }
+    ]
+  }
